@@ -1,12 +1,19 @@
 import React from 'react';
 
-import { Container } from './styles';
+import { Container, Title404 } from './styles';
+
+import { Input } from '../../components/Input';
+
+
 
 function Error404(){
   return(
-    <Container>
-      <p>Página não encontrada</p>
-    </Container>
+    <div>
+      <Title404>
+        <p>Página não encontrada</p>
+      </Title404>
+    </div>
+    
   )
 }
 

@@ -53,6 +53,12 @@ export const Panel = styled.div`
   text-align: center;
 
   backdrop-filter: blur(55px);
+
+  transition-duration: 250ms;
+
+  &:hover{
+    opacity: 1;
+  }
 `;
 
 export const PanelTitle = styled.h3`
