@@ -1,0 +1,46 @@
+{
+  "subscribers": [
+    {
+      "id": 1,
+      "name": "Joel Santana",
+      "email": "carlos@random.com",
+      "phone": "41987667899",
+      "comment": "praticar"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Samuel",
+      "email": "carlos@random.com",
+      "phone": "41987667899",
+      "comment": "estudar"
+    },
+    {
+      "id": 3,
+      "name": "Pedro Henrique",
+      "email": "pedro@random.com",
+      "phone": "45979664546",
+      "comment": "trabalhar"
+    },
+    {
+      "id": 4,
+      "name": "Jonas Ubaldo",
+      "email": "jonas@random.com",
+      "phone": "48913418916",
+      "comment": "conhecer"
+    },
+    {
+      "id": 5,
+      "name": "Jessé Pereira",
+      "email": "jesse@random.com",
+      "phone": "87963545684",
+      "comment": "descobrir"
+    },
+    {
+      "id": 6,
+      "name": "Victor Lima",
+      "email": "victor@random.com",
+      "phone": "44955544444",
+      "comment": "vender"
+    }
+  ]
+}
